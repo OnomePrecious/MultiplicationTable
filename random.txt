@@ -1,0 +1,9 @@
+#import random
+	#randint
+	#random
+	#choices
+	#shuffles(1,2,3)
+
+from random import randint
+#print(random.randint(1, 5))
+print(randint(1,4))

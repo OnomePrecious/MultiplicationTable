@@ -1,0 +1,16 @@
+import java. util.Scanner
+
+public class Arithmetic{
+
+public static void main(string[] args){
+
+Scanner input - new Scanner(System.in);
+
+System.out.println(input first integer);
+int number1 - input.nextInt();
+
+System.out.println(input second integer);
+}
+} 
+
+

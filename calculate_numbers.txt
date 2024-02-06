@@ -1,0 +1,2 @@
+def addnumber(a, b):
+	return f'sum: {a+b}, minus: {a-b}, divide: {a/b}, multiply: {a*b}, remainder: {a%b}'
